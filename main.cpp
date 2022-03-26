@@ -11,5 +11,7 @@ int main()
 
     std::cout << c << " " << d << std::endl;
 
+    int v; 
+
     return 0;
 }
